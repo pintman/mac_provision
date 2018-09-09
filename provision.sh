@@ -1,6 +1,7 @@
 #!/bin/bash
 
-BREW_PKGS="ansible bash-completion mariadb mycli nmap htop jupyter umlet"
+BREW_PKGS="ansible bash-completion mariadb mycli nmap plantuml \
+  htop jupyter umlet"
 BREW_CASK_PKGS="disk-inventory-x gimp gpg-suite skype-for-business \
  the-unarchiver \
  transmission geogebra java libreoffice mu-editor \
