@@ -6,6 +6,7 @@ BREW_CASK_PKGS="disk-inventory-x gimp gpg-suite skype-for-business \
  the-unarchiver \
  transmission geogebra java libreoffice mu-editor \
  wch-ch34x-usb-serial-driver \
+ visual-studio-code \
  x2goclient xquartz google-chrome etcher torbrowser wireshark pibakery"
 PIP_PKGS="mycli mypy pylint webuntis-cli bottle pygame"
 
