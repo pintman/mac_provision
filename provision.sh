@@ -2,7 +2,8 @@
 
 BREW_PKGS="ansible bash-completion mariadb mycli nmap plantuml \
   htop jupyter umlet"
-BREW_CASK_PKGS="disk-inventory-x gimp gpg-suite skype-for-business \
+BREW_CASK_PKGS="disk-inventory-x gimp gpg-suite keepassxc \
+ skype-for-business \
  the-unarchiver \
  transmission geogebra java libreoffice mu-editor \
  wch-ch34x-usb-serial-driver \
