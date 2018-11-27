@@ -7,6 +7,7 @@ BREW_CASK_PKGS="disk-inventory-x gimp gpg-suite keepassxc \
  the-unarchiver \
  transmission geogebra java libreoffice mu-editor \
  wch-ch34x-usb-serial-driver \
+ veracrypt \
  visual-studio-code \
  x2goclient xquartz google-chrome etcher torbrowser wireshark virtualbox\
  pibakery"
