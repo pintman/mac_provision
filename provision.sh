@@ -15,4 +15,5 @@ PIP_PKGS="mypy pylint webuntis-cli bottle pygame"
 brew install $BREW_PKGS
 brew cask install $BREW_CASK_PKGS
 
+python3 -m pip install --upgrade pip
 python3 -m pip install $PIP_PKGS
