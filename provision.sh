@@ -9,9 +9,8 @@ BREW_CASK_PKGS="disk-inventory-x gimp gpg-suite keepassxc \
  wch-ch34x-usb-serial-driver \
  veracrypt \
  visual-studio-code \
- x2goclient xquartz google-chrome etcher torbrowser wireshark virtualbox\
- pibakery"
-PIP_PKGS="mycli mypy pylint webuntis-cli bottle pygame"
+ x2goclient xquartz google-chrome etcher torbrowser wireshark virtualbox"
+PIP_PKGS="mypy pylint webuntis-cli bottle pygame"
 
 brew install $BREW_PKGS
 brew cask install $BREW_CASK_PKGS
