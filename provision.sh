@@ -3,6 +3,7 @@
 BREW_PKGS="ansible bash-completion mariadb mycli nmap plantuml \
   htop jupyter umlet"
 BREW_CASK_PKGS="anki disk-inventory-x gimp gpg-suite keepassxc \
+ inkscape \
  mactex texmaker \
  skype-for-business \
  scribus ghostscript \
